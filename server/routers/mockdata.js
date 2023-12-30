@@ -1,5 +1,5 @@
-import { getAllData } from "../controllers/mockdata/Gettets.js"
-import { postdata } from "../controllers/mockdata/setter.js"
+import { getAllData } from "../controllers/mockdata/getters.js"
+import { postdata } from "../controllers/mockdata/setters.js"
 
 
 const mockdata = (routes) => {
